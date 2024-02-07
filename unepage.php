@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>SALUT</h1>
-    <h2>C'est moi</h2>
+    <h2>C'est une autre personne</h2>
 </body>
 </html>
