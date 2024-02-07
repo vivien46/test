@@ -1,1 +1,1 @@
-*** Exemple de fichier readMe ***
+***Exemple de fichier readMe***
