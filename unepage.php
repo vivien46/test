@@ -6,7 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>SALUT</h1>
-    <h2>C'est moi</h2>
+    <ul>
+        <li>Un</li>
+        <li>Deux</li>
+        <li>Trois</li>
+        <li>Quatre</li>
+    </ul>
 </body>
 </html>
