@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>SALUT</h1>
+    <h2>C'est moi</h2>
 </body>
 </html>
