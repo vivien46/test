@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>SALUT</h1>
-    <h2>C'est une autre personne</h2>
+    <h1>test index.php</h1>
 </body>
 </html>
