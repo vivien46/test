@@ -1,19 +1,14 @@
-<?php
-include 'utils.php';
-?>
+<?php include 'utils.php'; ?>
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Ma page PHP</title>
     <?php includeStyles(); ?>
 </head>
 <body>
     <?php renderNav(); ?>
-    <h1>SALUT</h1>
-    <h2>C'est une autre personne</h2>
-
-    <p>test de font</p>
+    <p>une autre autre page en php</p>
 </body>
 </html>
